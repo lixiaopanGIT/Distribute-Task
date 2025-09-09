@@ -1,0 +1,14 @@
+1、启动 distribute-job-admin
+http://127.0.0.1:8080/xxl-job-admin    admin / 123456
+
+2、启动 distribute-job-execute
+在执行器管理页面， 添加管理器
+AppName: distribute-job-executor-lipan   对应xxl.job.executor.appname配置
+服务起来后，在OnLine地址能看到地址
+
+
+
+
+
+
+
